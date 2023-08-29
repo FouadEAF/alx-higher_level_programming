@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import math
 
+
 class MagicClass:
     """Class that stores the properties of a circumference"""
     def __init__(self, radius=0):
