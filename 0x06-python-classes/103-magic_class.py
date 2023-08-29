@@ -2,6 +2,9 @@
 import math
 
 
+"""Define a class Square."""
+
+
 class MagicClass:
     """Class that stores the properties of a circumference"""
     def __init__(self, radius=0):
