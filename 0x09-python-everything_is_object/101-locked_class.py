@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" This is a module that containts a clas that avoids
+""" This module that containt a class that avoid
     dynmaically created attributes
 """
 
